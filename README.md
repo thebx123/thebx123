@@ -38,6 +38,7 @@
 
 <p align="left">
   <a href="https://instagram.com/_thebx123_" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://t.me/thebx123" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/telegram-E4405F?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
 
 ### 📊 GitHub Stats
